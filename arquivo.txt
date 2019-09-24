@@ -1,0 +1,2 @@
+
+Item [nome=TV, quantidade=4, preco=1200.0]
